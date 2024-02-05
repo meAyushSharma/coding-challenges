@@ -2,3 +2,6 @@
 - Simply press the key mentioned and associated sound will be played.
 
 ![image](https://github.com/meAyushSharma/coding-challenges/assets/146171218/d6215a80-360d-4cb7-8be8-e9d325c9c481)
+
+
+- Image used is for educational and personal use only.
